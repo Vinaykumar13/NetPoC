@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetPoC", "NetPoC\NetPoC.csproj", "{4FE9AB95-E2DE-4EEC-98D5-921F8D3CB046}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestProject", "NUnitTestProject\NUnitTestProject.csproj", "{D11FE698-A1BF-4B4E-A19A-FD11DDF5F82A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FE9AB95-E2DE-4EEC-98D5-921F8D3CB046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE9AB95-E2DE-4EEC-98D5-921F8D3CB046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE9AB95-E2DE-4EEC-98D5-921F8D3CB046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE9AB95-E2DE-4EEC-98D5-921F8D3CB046}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D11FE698-A1BF-4B4E-A19A-FD11DDF5F82A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D11FE698-A1BF-4B4E-A19A-FD11DDF5F82A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D11FE698-A1BF-4B4E-A19A-FD11DDF5F82A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D11FE698-A1BF-4B4E-A19A-FD11DDF5F82A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9605BE08-B022-40FD-BD06-9D9DD65AC420}
+	EndGlobalSection
+EndGlobal

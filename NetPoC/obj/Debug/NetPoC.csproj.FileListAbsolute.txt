@@ -1,0 +1,12 @@
+D:\NetPoC\NetPoC\NetPoC\bin\Debug\NetPoC.exe.config
+D:\NetPoC\NetPoC\NetPoC\bin\Debug\NetPoC.exe
+D:\NetPoC\NetPoC\NetPoC\bin\Debug\NetPoC.pdb
+D:\NetPoC\NetPoC\NetPoC\obj\Debug\NetPoC.csproj.CoreCompileInputs.cache
+D:\NetPoC\NetPoC\NetPoC\obj\Debug\NetPoC.exe
+D:\NetPoC\NetPoC\NetPoC\obj\Debug\NetPoC.pdb
+D:\NetPoC1\NetPoC\bin\Debug\NetPoC.exe.config
+D:\NetPoC1\NetPoC\bin\Debug\NetPoC.exe
+D:\NetPoC1\NetPoC\bin\Debug\NetPoC.pdb
+D:\NetPoC1\NetPoC\obj\Debug\NetPoC.csproj.CoreCompileInputs.cache
+D:\NetPoC1\NetPoC\obj\Debug\NetPoC.exe
+D:\NetPoC1\NetPoC\obj\Debug\NetPoC.pdb
